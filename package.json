@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "Demo for http request setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkamath/simple-http-node-server.git"
+  },
+  "author": "Nritya Kamath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkamath/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/nkamath/simple-http-node-server#readme"
+}
